@@ -1,2 +1,11 @@
 .DS_Store
+
+*.md
+!README.md
+
+# macOS system files
 .DS_Store
+
+# Xcode user data
+DaPasstWasNicht/DaPasstWasNicht.xcodeproj/project.xcworkspace/xcuserdata/
+
