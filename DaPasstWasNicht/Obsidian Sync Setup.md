@@ -1,0 +1,3 @@
+
+### Link external folders to Obsidian Vault
+ln -s "/Users/felixmrak/Documents/WannaDevelopAnApp/DaPasstWasNicht" "/Users/felixmrak/Library/Mobile Documents/iCloud~md~obsidian/Documents/MyBrain"
